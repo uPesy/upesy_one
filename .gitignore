@@ -1,0 +1,9 @@
+_autosave*
+*.sch-bak
+*.kicad_pcb-bak
+fp-info-cache
+*.kicad_prl
+*.net
+*-backups/
+panel.kicad_pro
+panel-copy.kicad_pro
